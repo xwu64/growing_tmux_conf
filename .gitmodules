@@ -1,0 +1,12 @@
+[submodule "plugins/tpm"]
+	path = plugins/tpm
+	url = https://github.com/tmux-plugins/tpm
+[submodule "plugins/tmux-sensible"]
+	path = plugins/tmux-sensible
+	url = https://github.com/tmux-plugins/tmux-sensible.git
+[submodule "plugins/tmux-pain-control"]
+	path = plugins/tmux-pain-control
+	url = https://github.com/tmux-plugins/tmux-pain-control.git
+[submodule "plugins/tmux-colors-solarized"]
+	path = plugins/tmux-colors-solarized
+	url = https://github.com/seebi/tmux-colors-solarized.git
