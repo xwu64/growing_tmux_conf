@@ -10,6 +10,12 @@ $ git submodule update
 $ mv ~/.tmux/.tmux.conf ~/
 ```
 
+## Enable New Configuration
+
+```
+$ tmux source-file ~/.tmux.conf
+```
+
 ## UPDATE plugins
 
 ```
